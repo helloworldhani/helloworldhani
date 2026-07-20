@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://postimg.cc/pytCmbKy">
-    <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner"/>
+  <a href="https://postimg.cc/zLBHtsdF">
+    <img src="https://i.postimg.cc/pdQQTxz4/Heading.png" width="100%" alt="Banner"/>
   </a>
 </div>
 <br>
@@ -25,8 +25,8 @@
       I love turning ideas into practical solutions and continuously learning new technologies that create real-world impact.
     </td>
     <td align="center" valign="middle" width="30%">
-      <a href="https://postimg.cc/xX0qFwxV">
-        <img src="https://i.postimg.cc/P5DZNh1J/ID.png" width="220" alt="About Me Portrait"/>
+      <a href="https://postimg.cc/CZJqMF20">
+        <img src="https://i.postimg.cc/Ssb7rR7n/All-About-removebg-preview.png" width="220" alt="About Me Portrait"/>
       </a>
     </td>
   </tr>
