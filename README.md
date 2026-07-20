@@ -33,6 +33,6 @@
 </table>
 <div align="center">
   <a href="https://postimg.cc/PCdwZp1h">
-    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
+    <img src="https://i.postimg.cc/QdTk2ctB/Footer.png" width="100%" alt="Coding Quotes"/>
   </a>
 </div>
