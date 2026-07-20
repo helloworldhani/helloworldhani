@@ -32,7 +32,7 @@
   </tr>
 </table>
 <div align="center">
-  <a href="https://postimg.cc/PCdwZp1h">
-    <img src="https://i.postimg.cc/QdTk2ctB/Footer.png" width="100%" alt="Coding Quotes"/>
+  <a href="https://postimg.cc/k6NkZpYs">
+    <img src="https://i.postimg.cc/pT3R9NDw/Footer.png" width="100%" alt="Coding Quotes"/>
   </a>
 </div>
