@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td colspan="2" valign="middle">
-      <h3>Hey there! My name is Hani👋</h3>
+      <h3>Hey there!👋</h3>
     </td>
   </tr>
   <tr>
